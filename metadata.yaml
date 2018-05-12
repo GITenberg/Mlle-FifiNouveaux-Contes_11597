@@ -1,6 +1,9 @@
 _repo: Mlle-FifiNouveaux-Contes_11597
-_version: 0.0.1
+_version: 0.1.0
 alternative_title: 'Mademoiselle Fifi: nouveaux contes'
+covers:
+- cover_type: archival
+  image_path: 11597-h/cover.png
 creator:
   author:
     agent_name: Maupassant, Guy de
@@ -13,6 +16,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Guy_de_Maupassant
     - http://en.wikipedia.org/wiki/Guy_de_Maupassant
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11597#Mlle-FifiNouveaux-Contes
 gutenberg_bookshelf: FR Nouvelles
 gutenberg_issued: '2004-03-01'
 gutenberg_type: Text
